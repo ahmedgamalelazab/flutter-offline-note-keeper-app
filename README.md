@@ -10,7 +10,7 @@ the application was build using only setState((){}) but i have boosted the appli
 
 ## app demo 
 
-[!app demo](demo/flutter-testing.gif)
+[!demo]("./demo/flutter-testing.gif")
 
 ## Getting Started
 
